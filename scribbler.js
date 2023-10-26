@@ -10,9 +10,12 @@ var getAll = function (selector, scope) {
 };
 
 
+var diffInYears = moment().diff('2018-12-01', 'years', true).toFixed(1);
+
+
 
 const text = `This is Ghani.
-Currently working as a Full-Stack developer for a foreign company on Salesforce platform. I have an experience of 4 years in software development.
+Currently working as a Full-Stack developer for a foreign company on Salesforce platform. I have an experience of ${diffInYears} years in software development.
 
 ### Experience
 1. Full-Stack Developer (Salesforce) - Salient Business & Knowledge Partner AB (Sweden) - Feb 2022 - Present
@@ -29,6 +32,7 @@ Currently working as a Full-Stack developer for a foreign company on Salesforce 
 - Creating Custom Objects and Custom Object Fields.
 - Creating LWC and Aura Components for Community Portal.
 - Creating and Modifying Reports and Dashboards in Salesforce.
+- Salesforce Apex Trigger, Automation, Schedule, LWC, Aura Integration...
 
 2. Full-Stack Developer (Laravel + Vue) - Mercantile Islami Life Insurance Limited - (Dhaka - BD) - Dec 2019 - Jan 2022
 
@@ -61,10 +65,10 @@ Currently working as a Full-Stack developer for a foreign company on Salesforce 
 - SQL ---------------- Solid
 - Ubuntu ------------- Solid
 - Ampscript ---------- Solid
-- LWC ---------------- Beginner
-- Aura --------------- Beginner
+- LWC ---------------- Intermediate
+- Aura --------------- Intermediate
 - SSJS --------------- Solid
-- Apex --------------- Beginner
+- Apex --------------- Slid
 - Git ---------------- Solid
 - English ------------ Fluent
 - Salesforce Admin --- Intermediate
@@ -72,8 +76,11 @@ Currently working as a Full-Stack developer for a foreign company on Salesforce 
 ### Certificates
 1. Salesforce Certified Marketing Cloud Email Specialist. (April 2022)
 2. Salesforce Certified Administrator. (Nov 2022)
-3. SQL Advanced (HackerRank). (Sep 2022) 
-4. Scrum Foundation Professional Certificate (CertiProf). (Feb 2022)
+3. Salesforce Certified Javascript Developer I. (Feb 2023)
+4. Salesforce Certified Platform Developer I. (Aug 2023)
+5. SQL Advanced (HackerRank). (Sep 2022) 
+6. Scrum Foundation Professional Certificate (CertiProf). (Feb 2022)
+7. Salesforce Certified Associate. (May 2023)
 
 
 ####################################################
