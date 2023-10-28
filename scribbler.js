@@ -68,7 +68,7 @@ Currently working as a Full-Stack developer for a foreign company on Salesforce 
 - LWC ---------------- Intermediate
 - Aura --------------- Intermediate
 - SSJS --------------- Solid
-- Apex --------------- Slid
+- Apex --------------- Solid
 - Git ---------------- Solid
 - English ------------ Fluent
 - Salesforce Admin --- Intermediate
