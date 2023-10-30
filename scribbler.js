@@ -48,7 +48,7 @@ Currently working as a Full-Stack developer for a foreign company on Salesforce 
 - Mentor two juniors.
 - Managing OOV SSl Certificate.
 
-3. Full-Stack Developer (Laravel) - Smart Software Limited - (Dhaka -BD) - Dec 2018 - Nov - 2020
+3. Full-Stack Developer (Laravel) - Smart Software Limited - (Dhaka -BD) - Dec 2018 - Nov - 2019
 
 ## Responsibilities : 
 - Develop Ecommerce, Blog, News Websites for Local Clients.
