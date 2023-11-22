@@ -18,7 +18,7 @@ const text = `This is Ghani.
 Currently working as a Full-Stack developer for a foreign company on Salesforce platform. I have an experience of ${diffInYears} years in software development.
 
 ### Experience
-1. Full-Stack Developer (Salesforce) - Salient Business & Knowledge Partner AB (Sweden) - Feb 2022 - Present
+1. Full-Stack Developer (Salesforce) - Tikweb Bangladesh - Feb 2022 - Present
 
 ## Responsibilities :
 - Creating Journeys in Salesforce Marketing Cloud.
